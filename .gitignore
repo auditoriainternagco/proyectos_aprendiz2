@@ -1,0 +1,14 @@
+# Entornos y temporales
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+adaptado_companero/logs/
+
+# Salidas HTML locales generadas por pruebas
+output/
+adaptado_companero/output/
